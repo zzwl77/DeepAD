@@ -19,7 +19,7 @@ This repository is associated with the study **“Deep Learning-Driven 3D Eye Tr
 
 If you need access to the research data or have data-related questions, **please contact the paper’s corresponding author (as listed in the manuscript).**
 
-A publicly shared diagnostic test dataset related to this study, **ADEM_TEST**, is available via Zenodo.
+A publicly shared diagnostic test dataset related to this study, **ADEM_TEST**, is available via Zenodo. (https://doi.org/10.5281/zenodo.18796183)
 
 To use your own data, follow the expected structure in `AD_Dataloader.py` and prepare the CSV split files required by the training scripts (e.g., `ad_10f4`, `adnc_10f4`).
 
